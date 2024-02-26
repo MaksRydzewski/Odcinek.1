@@ -1,0 +1,7 @@
+body{
+table,tr,td{
+    border:solid;
+    border-collapse: collapse;
+    padding: 5px;
+}
+}
