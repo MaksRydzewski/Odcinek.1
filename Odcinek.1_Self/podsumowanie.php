@@ -42,6 +42,7 @@
     </td>
   </tr>
     </table>
-
+    <br><br>
+<a href="index.php">Powrót</a>
 </body>
 </html>
